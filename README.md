@@ -18,4 +18,6 @@ Mapule Madzena [MDZMAP001]
 
 // To run the java project/application, ensure you have the mongodb dependencies listed in the pom.xml.
 
+The github link for the code is here also: https://github.com/willie84/CSC4023Z-Assignment1
+
 
